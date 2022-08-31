@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(252, 190, 74);
+    letter-spacing: 2px;
+}
+
+section{
+    display: flex;
+    align-items: center;
+}
+
+header{
+    text-align: center;
+}
+
+button{
+    padding: 10px;
+    border: none;
+    outline: none;
+    background-color: rgb(253, 136, 27);
+    color: white;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: rgb(255, 200, 155);
+}
